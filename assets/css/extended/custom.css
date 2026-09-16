@@ -65,7 +65,14 @@
 }
 
 .books-row .entry-header h2 {
-    font-size: 28px;
+    font-size: 20px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.books-row .entry-header + .entry-footer {
+    margin-top: calc(var(--gap) / 2);
 }
 
 .books-row .entry-content {
