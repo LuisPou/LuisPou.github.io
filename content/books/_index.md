@@ -1,4 +1,4 @@
 ---
-title: "Books"
-description: "Books by Professor Dr von Igelfeld's."
+title: "Portfolio"
+description: "Some of my projects and experiences!"
 ---

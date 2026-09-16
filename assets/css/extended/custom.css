@@ -29,6 +29,10 @@
     font-size: 15px;
 }
 
+.main:has(.books-row) {
+    max-width: calc(var(--nav-width) + var(--gap) * 2);
+}
+
 .books-row {
     display: flex;
     flex-wrap: wrap;
@@ -36,17 +40,17 @@
 }
 
 .books-row .post-entry {
-    flex: 1 1 0;
-    min-width: 0;
-    padding: calc(var(--gap) / 2);
+    flex: 1 1 280px;
+    min-width: 260px;
+    padding: var(--gap);
 }
 
 .books-row .entry-header h2 {
-    font-size: 18px;
+    font-size: 22px;
 }
 
 .books-row .entry-content {
-    font-size: 13px;
+    font-size: 14px;
 }
 
 @media (max-width: 700px) {
