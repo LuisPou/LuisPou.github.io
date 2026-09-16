@@ -1,5 +1,5 @@
 baseURL: "https://luispou.github.io/" 
-title: Luis Lara
+title: Luis-Lara-Portfolio
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -15,9 +15,6 @@ menu:
         - name: Books
           url: books/
           weight: 5 
-        - name: Papers
-          url: papers/
-          weight: 2
         - name: Courses
           url: courses/
           weight: 3
@@ -44,7 +41,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: [books, courses, papers, data]
+    MainSections: [books, courses, data]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -60,8 +57,8 @@ params:
           imageWidth: 170
           imageHeight: 170
           buttons:
-            - name: Papers
-              url: papers/
+            - name: Resume
+              url: cv.pdf
             - name: Data
               url: data/
             - name: Books
@@ -76,8 +73,6 @@ params:
               url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: Email
           url: mailto:user@gmail.com
         - name: GitHub
