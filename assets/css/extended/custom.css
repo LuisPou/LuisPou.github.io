@@ -8,6 +8,12 @@
     gap: 8px;
 }
 
+.profile-name-row h1 {
+    line-height: 1;
+}
+
 .profile-name-row .social-icons {
+    display: flex;
+    align-items: center;
     gap: 0;
 }
