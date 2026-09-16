@@ -8,8 +8,8 @@ author: ["Moritz-Maria von Igelfeld"]
 description: "My time as a berkeley lab intern for summer of 2025!"
 summary: "My time as a berkeley lab intern for summer of 2025!"
 cover:
-    image: "book1.png"
-    alt: "Portugese Irregular Verbs"
+    image: "book1.jpg"
+    alt: "Berkeley Lab, Biomechanics Research Intern"
     relative: true
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
