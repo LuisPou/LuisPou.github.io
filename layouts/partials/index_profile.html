@@ -30,11 +30,11 @@
             height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
         {{- end }}
         {{- end }}
-        <div class="profile-name-row">
-            <h1>{{ .title | default site.Title | markdownify }}</h1>
+        <h1>{{ .title | default site.Title | markdownify }}</h1>
+        <span>{{ .subtitle | markdownify }}</span>
+        <div class="profile-icons-right">
             {{- partial "social_icons.html" -}}
         </div>
-        <span>{{ .subtitle | markdownify }}</span>
 
         {{- with .buttons }}
         <div class="buttons">
