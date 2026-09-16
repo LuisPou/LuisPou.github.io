@@ -28,3 +28,29 @@
     padding: 0 6px;
     font-size: 15px;
 }
+
+.books-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--gap);
+}
+
+.books-row .post-entry {
+    flex: 1 1 0;
+    min-width: 0;
+    padding: calc(var(--gap) / 2);
+}
+
+.books-row .entry-header h2 {
+    font-size: 18px;
+}
+
+.books-row .entry-content {
+    font-size: 13px;
+}
+
+@media (max-width: 700px) {
+    .books-row {
+        flex-direction: column;
+    }
+}
