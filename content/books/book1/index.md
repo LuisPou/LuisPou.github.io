@@ -1,7 +1,9 @@
 ---
-title: "Portugese Irregular Verbs" 
+title: "Berkeley Lab, Biomechanics Research Intern "
 date: 1997-01-01
 cardLink: "courses/"
+cardMeta: "Jun 2025 - Aug 2025"
+hideSummary: true
 tags: ["Portugese","irregular verbs","philology"]
 author: ["Moritz-Maria von Igelfeld"]
 description: "This book discusses Portugese irregular verbs in great details."

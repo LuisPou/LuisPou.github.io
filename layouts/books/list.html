@@ -42,7 +42,7 @@
     {{- end }}
     {{- if not (.Param "hideMeta") }}
     <footer class="entry-footer">
-      {{- partial "post_meta.html" . -}}
+      {{- with .Params.cardMeta }}{{ . }}{{ else }}{{ partial "post_meta.html" . }}{{ end -}}
     </footer>
     {{- end }}
     {{- $link := .Permalink }}
