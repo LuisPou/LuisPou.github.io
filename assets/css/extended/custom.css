@@ -2,11 +2,17 @@
     border-radius: 50%;
 }
 
-.profile-icons-right {
-    align-self: flex-end;
+.profile-name-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
 }
 
-.profile-icons-right .social-icons {
+.profile-name-row h1 {
+    line-height: 1;
+}
+
+.profile-name-row .social-icons {
     display: flex;
     align-items: center;
     gap: 0;
