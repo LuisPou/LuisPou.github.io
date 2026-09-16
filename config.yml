@@ -52,33 +52,31 @@ params:
     profileMode:
           enabled: true
           title: Luis Lara
-          subtitle: "I am a second-year Mechanical/Aerospace Engineering student with a minor in Electrical Engineering and Computer Sciences (EECS) at UC Berkeley. I am interested in autonomy, robotics, mechanical design, and aviation, and I am eager to gain industry experience to learn more! I enjoy working on hands-on engineering projects that integrate mechanical, electrical, and software systems to solve real-world problems."
+          subtitle: "I am a second-year student at UC Berkeley studying Mechanical/Aerospace Engineering with a minor in Electrical Engineering and Computer Sciences (EECS). I am interested in autonomy, robotics, mechanical design, and aviation, and I am eager to gain industry experience to learn more! I enjoy working on hands-on engineering projects that integrate mechanical, electrical, and software systems to solve real-world problems."
           imageUrl: images/esb-luis.png
           imageWidth: 170
           imageHeight: 170
           buttons:
             - name: Resume
               url: cv.pdf
-            - name: About Me
+            - name: Data
               url: data/
-            - name: Portfolio
+            - name: Books
               url: books/
-            - name: Project 1
+            - name: Courses
               url: courses/
-            - name: Project 2
+            - name: Tags
               url: tags/
-            - name: Project 3
+            - name: Archive
               url: archive/
-            - name: LinkedIn
-              url: https://www.linkedin.com/in/luis-lara-375a852bb/
+            - name: Blog
+              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: Email
           url: mailto:user@gmail.com
         - name: GitHub
           url: https://github.com/user
-        - name: LinkedIn
-          url: https://www.linkedin.com/in/luis-lara-375a852bb/
 
     assets:
         disableScrollBarStyle: true
