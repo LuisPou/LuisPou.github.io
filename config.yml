@@ -74,9 +74,9 @@ params:
 
     socialIcons:
         - name: Email
-          url: mailto:user@gmail.com
+          url: https://mail.google.com/mail/?view=cm&fs=1&to=luiflara0330@gmail.com
         - name: GitHub
-          url: https://github.com/user
+          url: https://github.com/LuisPou
         - name: LinkedIn
           url: https://www.linkedin.com/in/luis-lara-375a852bb/
 
