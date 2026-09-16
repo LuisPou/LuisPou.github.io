@@ -77,6 +77,8 @@ params:
           url: mailto:user@gmail.com
         - name: GitHub
           url: https://github.com/user
+        - name: LinkedIn
+          url: https://www.linkedin.com/mynetwork/invite-connect/connections/
 
     assets:
         disableScrollBarStyle: true
