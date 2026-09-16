@@ -34,16 +34,14 @@
 }
 
 .books-row {
-    display: flex;
-    flex-wrap: nowrap;
-    gap: var(--gap);
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: calc(var(--gap) * 1.5);
 }
 
 .books-row .post-entry {
-    flex: 1 1 0;
-    min-width: 0;
     aspect-ratio: 1 / 1;
-    padding: calc(var(--gap) * 1.25);
+    padding: calc(var(--gap) * 1.5);
     display: flex;
     flex-direction: column;
     overflow: hidden;
@@ -67,14 +65,14 @@
 }
 
 .books-row .entry-header h2 {
-    font-size: 24px;
+    font-size: 28px;
 }
 
 .books-row .entry-content {
     flex: 0 0 auto;
-    font-size: 15px;
+    font-size: 16px;
     overflow: hidden;
     display: -webkit-box;
-    -webkit-line-clamp: 2;
+    -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
 }
