@@ -12,22 +12,22 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
+        - name: Portfolio
           url: books/
-          weight: 5 
-        - name: Courses
-          url: courses/
+          weight: 5
+        - name: Resume
+          url: cv.pdf
           weight: 3
-        - name: Data
+        - name: About Me
           url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          weight: 4
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/luis-lara-375a852bb/
           weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "This website hosts Luis Lara's portfolio, resume, and contact information."
+    author: Luis Lara
     # googleAnalyticsID: G-XXXXX
     DateFormat: January 2006
     defaultTheme: light
@@ -86,7 +86,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: Moritz-Maria von Igelfeld
+      text: Luis Lara
       icon: favicon.ico
       iconHeight: 18
 
