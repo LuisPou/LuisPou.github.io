@@ -1,5 +1,5 @@
 baseURL: "https://luispou.github.io/" 
-title: Moritz-Maria von Igelfeld
+title: Luis Lara
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -34,7 +34,7 @@ params:
     # googleAnalyticsID: G-XXXXX
     DateFormat: January 2006
     defaultTheme: light
-    hideFooter: false
+    hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
