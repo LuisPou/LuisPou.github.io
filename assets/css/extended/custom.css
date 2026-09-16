@@ -30,19 +30,40 @@
 }
 
 .main:has(.books-row) {
-    max-width: calc(var(--nav-width) + var(--gap) * 2);
+    max-width: calc(var(--nav-width) + var(--gap) * 4);
 }
 
 .books-row {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     gap: var(--gap);
 }
 
 .books-row .post-entry {
-    flex: 1 1 340px;
-    min-width: 300px;
+    flex: 1 1 0;
+    min-width: 0;
+    aspect-ratio: 1 / 1;
     padding: calc(var(--gap) * 1.25);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.books-row .entry-cover {
+    flex: 1 1 auto;
+    min-height: 0;
+    margin-bottom: calc(var(--gap) / 2);
+}
+
+.books-row .entry-cover img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.books-row .entry-header,
+.books-row .entry-footer {
+    flex: 0 0 auto;
 }
 
 .books-row .entry-header h2 {
@@ -50,11 +71,10 @@
 }
 
 .books-row .entry-content {
+    flex: 0 0 auto;
     font-size: 15px;
-}
-
-@media (max-width: 700px) {
-    .books-row {
-        flex-direction: column;
-    }
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
 }
