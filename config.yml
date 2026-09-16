@@ -59,18 +59,18 @@ params:
           buttons:
             - name: Resume
               url: cv.pdf
-            - name: Data
+            - name: About Me
               url: data/
-            - name: Books
+            - name: Portfolio
               url: books/
-            - name: Courses
+            - name: Project 1
               url: courses/
-            - name: Tags
+            - name: Project 2
               url: tags/
-            - name: Archive
+            - name: Project 3
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: LinkedIn
+              url: https://www.linkedin.com/in/luis-lara-375a852bb/
 
     socialIcons:
         - name: Email
