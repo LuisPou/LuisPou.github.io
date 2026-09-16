@@ -3,11 +3,10 @@ title: "Berkeley Lab, Biomechanics Research Intern "
 date: 1997-01-01
 cardLink: "courses/"
 cardMeta: "Jun 2025 - Aug 2025"
-hideSummary: true
 tags: ["Portugese","irregular verbs","philology"]
 author: ["Moritz-Maria von Igelfeld"]
-description: "This book discusses Portugese irregular verbs in great details."
-summary: "This book discusses Portugese irregular verbs in great details."
+description: "My time as a berkeley lab intern for summer of 2025!"
+summary: "My time as a berkeley lab intern for summer of 2025!"
 cover:
     image: "book1.png"
     alt: "Portugese Irregular Verbs"
