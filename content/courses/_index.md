@@ -1,5 +1,5 @@
 ---
-title: "Bugs and the ALS"
+title: "Berkeley Lab, Biomechanics Research Intern"
 description: ""
 ---
 
