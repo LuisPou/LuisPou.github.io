@@ -63,9 +63,9 @@ params:
               url: data/
             - name: Portfolio
               url: books/
-            - name: Berkeley Lab 2024-2025
+            - name: Project 1
               url: courses/
-            - name: Vehicle Dynamics
+            - name: Project 2
               url: vehicle-dynamics/
             - name: Project 3
               url: project3/
