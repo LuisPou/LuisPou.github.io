@@ -63,7 +63,7 @@ params:
               url: data/
             - name: Portfolio
               url: books/
-            - name: Project 1
+            - name: Berkeley Lab 2025
               url: courses/
             - name: Project 2
               url: tags/
