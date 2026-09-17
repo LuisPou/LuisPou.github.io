@@ -210,12 +210,11 @@
 
 .slide-2-pair {
     position: relative;
-    align-self: flex-start;
 }
 
 .slide-2-pair > img:first-child {
-    max-width: 62%;
-    max-height: 240px;
+    max-width: 70%;
+    max-height: 200px;
     width: auto;
     height: auto;
     object-fit: contain;
@@ -224,9 +223,10 @@
 
 .slide-2-inset {
     position: absolute;
-    top: -8%;
-    left: 55%;
-    width: 45%;
+    top: -10px;
+    right: 30%;
+    width: 30%;
+    max-width: 130px;
     height: auto;
     border-radius: var(--radius);
     border: 3px solid var(--theme);
