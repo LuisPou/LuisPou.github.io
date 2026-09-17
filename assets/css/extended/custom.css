@@ -278,7 +278,7 @@
 
 .slide-4-images {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
     grid-auto-rows: 200px;
     gap: 16px;
 }
@@ -293,7 +293,6 @@
 .s4-a { grid-column: 1; grid-row: 1; }
 .s4-b { grid-column: 2; grid-row: 1 / 3; height: 416px; }
 .s4-c { grid-column: 1; grid-row: 2; }
-.s4-d { grid-column: 3; grid-row: 1 / 3; height: 416px; }
 
 @media (max-width: 800px) {
     .slide-1, .slide-2, .slide-3, .slide-4 {
@@ -310,13 +309,12 @@
 
     .slide-4-images {
         grid-template-columns: 1fr 1fr;
-        grid-template-rows: auto auto auto;
+        grid-template-rows: auto auto;
     }
 
     .s4-a { grid-column: 1; grid-row: 1; }
     .s4-b { grid-column: 2; grid-row: 1 / 3; }
     .s4-c { grid-column: 1; grid-row: 2; }
-    .s4-d { grid-column: 1 / 3; grid-row: 3; }
 }
 
 .about-hero {

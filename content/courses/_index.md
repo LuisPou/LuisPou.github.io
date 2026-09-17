@@ -55,7 +55,6 @@ description: ""
     <img class="s4-a" src="/images/project1/dragonfly-segment.jpg" alt="Dragonfly software segmenting an insect scan in cross-section">
     <img class="s4-b" src="/images/project1/chuck-mount.jpg" alt="A specimen mounted in a chuck at the imaging setup">
     <img class="s4-c" src="/images/project1/desk-dual-monitor.jpg" alt="Workstation with dual monitors used for scan analysis">
-    <img class="s4-d" src="/images/project1/render-dark.jpg" alt="3D render of a scanned specimen in modeling software">
   </div>
   <div class="slide-4-right">
     <ul>
