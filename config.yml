@@ -63,11 +63,11 @@ params:
               url: data/
             - name: Portfolio
               url: books/
-            - name: Berkeley Lab Intern
+            - name: Berkeley Lab 2024-2025
               url: courses/
-            - name: Berkeley Lab Program
+            - name: Vehicle Dynamics
               url: vehicle-dynamics/
-            - name: Vehicle Dynamics Project
+            - name: Project 3
               url: project3/
             - name: LinkedIn
               url: https://www.linkedin.com/in/luis-lara-375a852bb/
