@@ -105,6 +105,21 @@
     }
 }
 
+.project-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 16px;
+}
+
+.project-gallery img {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    background: var(--entry);
+}
+
 .about-hero {
     display: grid;
     grid-template-columns: 1.3fr 1fr;
