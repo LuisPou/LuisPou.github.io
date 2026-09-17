@@ -63,12 +63,6 @@ params:
               url: data/
             - name: Portfolio
               url: books/
-            - name: Project 1
-              url: courses/
-            - name: Project 2
-              url: vehicle-dynamics/
-            - name: Project 3
-              url: project3/
             - name: LinkedIn
               url: https://www.linkedin.com/in/luis-lara-375a852bb/
 
