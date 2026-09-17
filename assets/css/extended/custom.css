@@ -83,3 +83,24 @@
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
 }
+
+.about-gallery {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+    margin-top: 20px;
+}
+
+.about-gallery img {
+    width: 100%;
+    aspect-ratio: 3 / 4;
+    object-fit: cover;
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+}
+
+@media (max-width: 700px) {
+    .about-gallery {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
