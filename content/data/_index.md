@@ -23,4 +23,30 @@ I love learning about automation, robotics, machine learning, AI, embedded syste
 
 </div>
 
+<div class="about-hobbies">
+
+<div class="about-hobbies-stack">
+
+<img src="/images/about/dumpling.jpg" alt="Making dumplings by hand at a table">
+
+<img src="/images/about/band.jpg" alt="Playing French horn in a formal concert band performance">
+
+</div>
+
+<img class="about-hobbies-tall" src="/images/about/hamilton.jpg" alt="Standing outside the Richard Rodgers Theatre before seeing Hamilton">
+
+<div class="about-hobbies-text">
+
+Outside of academics and engineering, I love music and play both the French horn and trumpet.
+
+I love to cook and eat, whether I'm experimenting with new recipes or just making something that tastes great.
+
+I stay active through daily weight lifting and walking my pug for cardio.
+
+Most importantly, I enjoy spending time with my loved ones and exploring the world around me.
+
+</div>
+
+</div>
+
 </div>
