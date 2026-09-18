@@ -1,4 +1,4 @@
 ---
-title: "Project 3"
+title: "Vehicle Dynamics Research Project"
 description: ""
 ---
