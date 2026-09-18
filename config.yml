@@ -19,7 +19,7 @@ menu:
           url: cv.pdf
           weight: 3
         - name: About Me
-          url: About Me/
+          url: data/
           weight: 4
         - name: LinkedIn
           url: https://www.linkedin.com/in/luis-lara-375a852bb/
@@ -41,7 +41,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: [books, courses, "About Me"]
+    MainSections: [books, courses, data]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -60,7 +60,7 @@ params:
             - name: Resume
               url: cv.pdf
             - name: About Me
-              url: About Me/
+              url: data/
             - name: Portfolio
               url: books/
             - name: LinkedIn
