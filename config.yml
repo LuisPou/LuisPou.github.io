@@ -13,7 +13,7 @@ taxonomies:
 menu:
     main:
         - name: Portfolio
-          url: Portfolio/
+          url: books/
           weight: 5
         - name: Resume
           url: cv.pdf
@@ -41,7 +41,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: [portfolio, courses, about-me]
+    MainSections: [books, courses, about-me]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -62,7 +62,7 @@ params:
             - name: About Me
               url: About_Me/
             - name: Portfolio
-              url: Portfolio/
+              url: books/
             - name: LinkedIn
               url: https://www.linkedin.com/in/luis-lara-375a852bb/
 
