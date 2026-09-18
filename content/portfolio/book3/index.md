@@ -1,7 +1,7 @@
 ---
 title: "Vehicle Dynamics Research Project" 
 date: 1997-01-01
-cardLink: "project3/"
+cardLink: "vehicle-dynamics/"
 cardMeta: "Aug 2026 - Sep 2026"
 tags: ["Portugese","irregular verbs","philology"]
 author: ["Moritz-Maria von Igelfeld"]

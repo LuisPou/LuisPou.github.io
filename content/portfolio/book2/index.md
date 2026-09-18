@@ -1,7 +1,7 @@
 ---
 title: "Berkeley Lab Director's Apprenticeship Program (BLDAP)"
 date: 1997-01-01
-cardLink: "vehicle-dynamics/"
+cardLink: "BLDAP/"
 cardMeta: "Jun 2024 - May 2025"
 tags: ["Portugese","irregular verbs","philology"]
 author: ["Moritz-Maria von Igelfeld"]
