@@ -1,7 +1,7 @@
 ---
 title: "Berkeley Lab, Biomechanics Research Intern "
 date: 1997-01-01
-cardLink: "courses/"
+cardLink: "LBNL2/"
 cardMeta: "Jun 2025 - Aug 2025"
 tags: ["Portugese","irregular verbs","philology"]
 author: ["Moritz-Maria von Igelfeld"]

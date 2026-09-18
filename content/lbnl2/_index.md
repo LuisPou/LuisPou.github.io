@@ -1,6 +1,7 @@
 ---
 title: "Berkeley Lab, Biomechanics Research Intern"
 description: ""
+url: /LBNL2/
 ---
 
 <div class="slide slide-1">
