@@ -1,6 +1,6 @@
 ---
 title: "Berkeley Lab, Biomechanics Research Intern "
-date: 1997-01-01
+date: 1997-01-02
 cardLink: "LBNL2/"
 cardMeta: "Jun 2025 - Aug 2025"
 tags: ["Portugese","irregular verbs","philology"]
