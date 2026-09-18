@@ -1,14 +1,15 @@
 ---
-title: "Portugese Irregular Verbs" 
+title: "Vehicle Dynamics Research Project" 
 date: 1997-01-01
 cardLink: "archive/"
+cardMeta: "Aug 2026 - Sep 2026"
 tags: ["Portugese","irregular verbs","philology"]
 author: ["Moritz-Maria von Igelfeld"]
-description: "This book discusses Portugese irregular verbs in great details."
-summary: "This book discusses Portugese irregular verbs in great details."
+description: "A fun project on tire dynamics!"
+summary: "A fun project on tire dynamics!"
 cover:
-    image: "book1.png"
-    alt: "Portugese Irregular Verbs"
+    image: "book3.jpg"
+    alt: "Vehicle Dynamics Research Project"
     relative: true
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
