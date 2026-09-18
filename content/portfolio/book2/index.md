@@ -1,14 +1,15 @@
 ---
-title: "Portugese Irregular Verbs" 
+title: "Berkeley Lab Director's Apprenticeship Program (BLDAP)"
 date: 1997-01-01
 cardLink: "tags/"
+cardMeta: "Jun 2024 - May 2025"
 tags: ["Portugese","irregular verbs","philology"]
 author: ["Moritz-Maria von Igelfeld"]
-description: "This book discusses Portugese irregular verbs in great details."
-summary: "This book discusses Portugese irregular verbs in great details."
+description: "My summer as a Apprentice at Berkeley Lab!"
+summary: "My summer as a Apprentice at Berkeley Lab!"
 cover:
-    image: "book1.png"
-    alt: "Portugese Irregular Verbs"
+    image: "book2.jpg"
+    alt: "Berkeley Lab Director's Apprenticeship Program (BLDAP)"
     relative: true
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
