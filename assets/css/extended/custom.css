@@ -278,30 +278,7 @@
 .s4-b { grid-column: 2; grid-row: 1 / 3; height: 416px; }
 .s4-c { grid-column: 1; grid-row: 2; }
 
-/* Slide 5 */
-.slide-5 {
-    display: grid;
-    grid-template-columns: 1.3fr 1fr;
-    gap: 32px;
-}
-
-.slide-5-images {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-auto-rows: 160px;
-    gap: 16px;
-}
-
-.slide-5-images img {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
-    background: var(--entry);
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
-}
-
-/* Slides 6 & 7 (text on top, two photos below) */
+/* Slides with text on top, two photos below */
 .slide-textphotos-images {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -323,8 +300,14 @@
     background: #000;
 }
 
+.slide-vr-museum {
+    object-fit: contain;
+    background: #fdf6e3;
+    border: 4px solid #c9781f !important;
+}
+
 @media (max-width: 800px) {
-    .slide-3, .slide-4, .slide-5 {
+    .slide-3, .slide-4 {
         grid-template-columns: 1fr;
     }
 
