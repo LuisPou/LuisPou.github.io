@@ -68,22 +68,6 @@ url: /LBNL2/
   <div class="slide-textphotos-images">
     <img src="/images/project1/essig-drawer2.jpg" alt="Group looking at a specimen drawer at the Essig Museum">
     <img src="/images/project1/essig-monitor.jpg" alt="Group examining a specimen on a microscope monitor">
-    <img src="/images/project1/essig-tray-hold.jpg" alt="Curator holding a specimen tray in the museum cabinet aisle">
-  </div>
-</div>
-
-<div class="slide slide-3">
-  <div class="slide-3-left">
-    <p>How were these Created?</p>
-    <p>The first thing on our agenda was collecting all the bugs that we wanted to research and scan using the beamline.</p>
-    <p>We did this by visiting the Essig Museum of Entomology Research at UC Berkeley to borrow some of the specimen.</p>
-    <p>Here are some pictures of our visit!</p>
-  </div>
-  <div class="slide-3-right">
-    <img class="slide-3-round" src="/images/project1/group-drawer.jpg" alt="Group looking at a drawer of pinned insect specimens">
-    <img src="/images/project1/specimen-hemiptera.jpg" alt="Hemiptera specimen under magnification, 1mm scale">
-    <img src="/images/project1/collection-cabinet.jpg" alt="Opening a specimen drawer in the insect collection cabinets">
-    <img src="/images/project1/specimen-grasshopper.jpg" alt="Grasshopper specimen under magnification, 2mm scale">
   </div>
 </div>
 
