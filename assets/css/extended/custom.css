@@ -1,3 +1,10 @@
+.header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: var(--theme);
+}
+
 .profile img {
     border-radius: 50%;
 }
