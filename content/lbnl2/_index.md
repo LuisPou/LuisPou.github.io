@@ -5,25 +5,24 @@ url: /LBNL2/
 ---
 
 <div class="slide slide-1">
-  <div class="slide-1-left">
-    <p>I had the opportunity to work at the Advanced Light Source (ALS) at Berkeley Lab — a synchrotron particle accelerator — where I worked on Beamline 8.3.2, which specializes in X-ray micro-computed tomography (micro-CT).</p>
-    <p>Tomography involves using X-rays to image the internal structure of objects within a field of view of</p>
-    <img class="slide-1-building" src="/images/project1/als-dome.jpg" alt="The Advanced Light Source dome building at Berkeley Lab">
+  <div class="slide-1-text">
+    <p>I had the opportunity to work at the Advanced Light Source (ALS) at Berkeley Lab a synchrotron particle accelerator where I worked on Beamline 8.3.2, which specializes in X-ray micro-computed tomography (micro-CT).</p>
+    <p>Tomography involves using X-rays to image the internal structure of objects within a field of view of roughly 1–10 mm.</p>
   </div>
-  <div class="slide-1-right">
+  <div class="slide-1-images">
+    <img src="/images/project1/chuck-mount.jpg" alt="A specimen mounted in a chuck at the imaging setup">
     <img src="/images/project1/hallway.jpg" alt="Entrance to the ALS experiment floor">
-    <img src="/images/project1/objectives.jpg" alt="Microscope objective lenses on the imaging rig">
   </div>
 </div>
 
 <div class="slide slide-2">
-  <div class="slide-2-left">
+  <div class="slide-2-text">
     <p>Studying Bugs for its fascinating Biomechanics!</p>
     <p>I worked with Sharpshooters a bug which uses "super propulsion" to flick pee at accelerations exceeding 40 g's about the acceleration of 40 cheetahs.</p>
     <p>I worked with Prof. Jacob Harrison of Morehouse College to build 3D models of the sharpshooter at three life stages young, middle, and mature tracing how its Flicker develops over time. Studying how that limb functions gives techniques to apply to robotics.</p>
     <p>With the use of the particle accelerator I am able to create scans to examine these incredibly small structures!</p>
   </div>
-  <div class="slide-2-right">
+  <div class="slide-2-images">
     <div class="slide-2-pair">
       <img src="/images/project1/scan-pyramid.jpg" alt="3D scan reconstruction of an insect part, pyramid-like structure">
       <img class="slide-2-inset" src="/images/project1/scan-closeup.jpg" alt="Close-up detail of the 3D scan reconstruction">
@@ -33,7 +32,6 @@ url: /LBNL2/
       <img class="slide-2-inset" src="/images/project1/scan-mouth.jpg" alt="Close-up detail of mouthpart structures">
     </div>
   </div>
-  <img class="slide-2-peek" src="/images/project1/leafhopper.jpg" alt="A leafhopper and nymph on a plant stem">
 </div>
 
 <div class="slide slide-textphotos">

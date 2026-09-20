@@ -181,55 +181,27 @@
 }
 
 /* Slide 1 */
-.slide-1 {
+.slide-1-images {
     display: grid;
-    grid-template-columns: 1.1fr 1fr;
-    gap: 32px;
-    align-items: start;
-}
-
-.slide-1-left {
-    display: flex;
-    flex-direction: column;
-}
-
-.slide-1-building {
-    width: 100%;
-    height: 230px;
-    object-fit: cover;
-    border-radius: var(--radius);
-}
-
-.slide-1-right {
-    display: flex;
-    flex-direction: column;
+    grid-template-columns: 1fr 1fr;
     gap: 16px;
+    margin-top: 20px;
 }
 
-.slide-1-right img {
+.slide-1-images img {
     width: 100%;
-    height: 230px;
+    height: 300px;
     object-fit: cover;
     border-radius: var(--radius);
-}
-
-.slide-1-right img:last-child {
-    width: 62%;
-    align-self: flex-end;
+    border: 1px solid var(--border);
 }
 
 /* Slide 2 */
-.slide-2 {
+.slide-2-images {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 32px;
-    padding-bottom: 60px;
-}
-
-.slide-2-right {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
+    margin-top: 20px;
 }
 
 .slide-2-pair {
@@ -237,10 +209,8 @@
 }
 
 .slide-2-pair > img:first-child {
-    max-width: 70%;
-    max-height: 200px;
-    width: auto;
-    height: auto;
+    width: 100%;
+    height: 260px;
     object-fit: contain;
     border-radius: var(--radius);
 }
@@ -248,22 +218,12 @@
 .slide-2-inset {
     position: absolute;
     top: -10px;
-    right: 30%;
+    right: 8%;
     width: 30%;
     max-width: 130px;
     height: auto;
     border-radius: var(--radius);
     border: 3px solid var(--theme);
-}
-
-.slide-2-peek {
-    position: absolute;
-    left: 32px;
-    bottom: 0;
-    width: 140px;
-    height: auto;
-    border-radius: var(--radius);
-    box-shadow: 0 0 0 4px var(--theme);
 }
 
 /* Slide 3 */
@@ -364,16 +324,12 @@
 }
 
 @media (max-width: 800px) {
-    .slide-1, .slide-2, .slide-3, .slide-4, .slide-5 {
+    .slide-3, .slide-4, .slide-5 {
         grid-template-columns: 1fr;
     }
 
-    .slide-2 {
-        padding-bottom: 32px;
-    }
-
-    .slide-2-peek {
-        display: none;
+    .slide-1-images, .slide-2-images {
+        grid-template-columns: 1fr;
     }
 
     .slide-4-images {
