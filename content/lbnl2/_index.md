@@ -94,6 +94,17 @@ url: /LBNL2/
 
 <div class="slide slide-textphotos">
   <div class="slide-textphotos-text">
+    <p>We decided that we wanted to also work with Virtual Reality (VR) so met with a company called Dymanoid where we learned how VR really worked and how we would be able to use their platform.</p>
+    <p>This was our trip there!</p>
+  </div>
+  <div class="slide-textphotos-images">
+    <img src="/images/project1/vr-headsets.jpg" alt="Two people trying the VR bug museum with headsets on">
+    <img src="/images/project1/vr-desk.jpg" alt="Viewing the VR experience on a monitor at a desk">
+  </div>
+</div>
+
+<div class="slide slide-textphotos">
+  <div class="slide-textphotos-text">
     <p>From there we started our journey to make learning about our bug research into a VR experience</p>
     <p>We did this by</p>
     <ul>
@@ -106,17 +117,6 @@ url: /LBNL2/
   <div class="slide-textphotos-images">
     <img class="slide-vr-museum" src="/images/project1/vr-museum.jpg" alt="A virtual museum room hosting 3D modeled bugs on pedestals">
     <img src="/images/project1/maya-ladybug.jpg" alt="A ladybug model being animated in Maya">
-  </div>
-</div>
-
-<div class="slide slide-textphotos">
-  <div class="slide-textphotos-text">
-    <p>We decided that we wanted to also work with Virtual Reality (VR) so met with a company called Dymanoid where we learned how VR really worked and how we would be able to use their platform.</p>
-    <p>This was our trip there!</p>
-  </div>
-  <div class="slide-textphotos-images">
-    <img src="/images/project1/vr-headsets.jpg" alt="Two people trying the VR bug museum with headsets on">
-    <img src="/images/project1/vr-desk.jpg" alt="Viewing the VR experience on a monitor at a desk">
   </div>
 </div>
 
