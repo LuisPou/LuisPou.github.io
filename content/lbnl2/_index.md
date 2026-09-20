@@ -73,3 +73,44 @@ url: /LBNL2/
     </ul>
   </div>
 </div>
+
+<div class="slide slide-5">
+  <div class="slide-5-images">
+    <img src="/images/project1/maya-ladybug.jpg" alt="A ladybug model being animated in Maya">
+    <img src="/images/project1/vr-museum.jpg" alt="A virtual museum room hosting 3D modeled bugs on pedestals">
+    <img src="/images/project1/vr-headsets.jpg" alt="Two people trying the VR bug museum with headsets on">
+    <img src="/images/project1/vr-desk.jpg" alt="Viewing the VR experience on a monitor at a desk">
+  </div>
+  <div class="slide-5-right">
+    <p>From there we started our journey to make learning about our bug research into a VR experience</p>
+    <p>We did this by</p>
+    <ul>
+      <li>Working with Maya a animation software so that we could make animations of the models to use in VR</li>
+      <li>We also used blender to for other bugs we wanted to showcase</li>
+      <li>Then from there we had everything we needed to transfer our things to VR</li>
+      <li>We used Sketchfab to host our museum of 3D modeled bugs!</li>
+    </ul>
+  </div>
+</div>
+
+<div class="slide slide-textphotos">
+  <div class="slide-textphotos-text">
+    <p>And from there we had our presentation during cookie time. Cookie time being a tradition where the ALS every thursday has cookies and coffee outside the building to make people get together and catch up.</p>
+    <p>This is where we talked and showcased our project to the ALS faculty of what we did over the summer!</p>
+  </div>
+  <div class="slide-textphotos-images">
+    <img src="/images/project1/cookie-booth.jpg" alt="Kids trying VR headsets at the Discover the World of Bugs booth">
+    <img src="/images/project1/cookie-crowd.jpg" alt="A crowd gathered at the ALS lobby during cookie time">
+  </div>
+</div>
+
+<div class="slide slide-textphotos">
+  <div class="slide-textphotos-text">
+    <p>We also got invited to present our research at a conference!</p>
+    <p>We did this at a doubletree at the Berkeley Marina in front of faculty of the ALS and some other parts of the country that use all sorts of particle accelerators!</p>
+  </div>
+  <div class="slide-textphotos-images">
+    <img src="/images/project1/present-mic.jpg" alt="Presenting the sharpshooter research with a microphone at the conference">
+    <img src="/images/project1/conference-selfie.jpg" alt="Group selfie with fellow researchers at the conference table">
+  </div>
+</div>
