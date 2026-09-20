@@ -357,6 +357,12 @@
     border: 1px solid var(--border);
 }
 
+.slide-videos img {
+    aspect-ratio: 4 / 3;
+    object-fit: contain;
+    background: #000;
+}
+
 @media (max-width: 800px) {
     .slide-1, .slide-2, .slide-3, .slide-4, .slide-5 {
         grid-template-columns: 1fr;

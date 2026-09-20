@@ -36,6 +36,42 @@ url: /LBNL2/
   <img class="slide-2-peek" src="/images/project1/leafhopper.jpg" alt="A leafhopper and nymph on a plant stem">
 </div>
 
+<div class="slide slide-textphotos">
+  <div class="slide-textphotos-text">
+    <p>Here are videos comparing the size of young and mature sharpshooters.</p>
+    <p>The young one is on the left and the mature one is on the right. A young sharpshooters tip of the tail grows into the massive flicker we see on the right</p>
+  </div>
+  <div class="slide-textphotos-images slide-videos">
+    <img src="/images/project1/video-compare-both.webp" alt="Video comparing the young and mature sharpshooter tail side by side">
+    <img src="/images/project1/video-mature-solo.webp" alt="Video of the mature sharpshooter tail scan rotating">
+  </div>
+</div>
+
+<div class="slide slide-textphotos">
+  <div class="slide-textphotos-text">
+    <p>Here are scans comparing the internal structure of a young and a mature flicker.</p>
+    <p>Watch how the tiny limb changes as the sharpshooter grows, and you can see how it builds up to launching droplets at over 40 g.</p>
+    <p>The one on the right is the late stage and the left is the early stages</p>
+  </div>
+  <div class="slide-textphotos-images slide-videos">
+    <img src="/images/project1/video-internal-young.webp" alt="Internal CT scan video of the young sharpshooter">
+    <img src="/images/project1/video-internal-mature.webp" alt="Internal CT scan video of the mature sharpshooter">
+  </div>
+</div>
+
+<div class="slide slide-textphotos">
+  <div class="slide-textphotos-text">
+    <p>How were these Created?</p>
+    <p>The first thing on our agenda was collecting all the bugs that we wanted to research and scan using the beamline.</p>
+    <p>We did this by visiting the Essig Museum of Entomology Research at UC Berkeley to borrow some of the specimen. Here are some pictures of our visit!</p>
+  </div>
+  <div class="slide-textphotos-images">
+    <img src="/images/project1/essig-drawer2.jpg" alt="Group looking at a specimen drawer at the Essig Museum">
+    <img src="/images/project1/essig-monitor.jpg" alt="Group examining a specimen on a microscope monitor">
+    <img src="/images/project1/essig-tray-hold.jpg" alt="Curator holding a specimen tray in the museum cabinet aisle">
+  </div>
+</div>
+
 <div class="slide slide-3">
   <div class="slide-3-left">
     <p>How were these Created?</p>
