@@ -300,6 +300,21 @@
     background: #000;
 }
 
+.slide-photos-3 {
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.slide-photos-1 {
+    grid-template-columns: 1fr;
+    max-width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.slide-photos-1 img {
+    aspect-ratio: 16 / 10;
+}
+
 .slide-vr-museum {
     object-fit: contain;
     background: #fdf6e3;
