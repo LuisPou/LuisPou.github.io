@@ -8,10 +8,8 @@ url: /BLDAP/
   <div class="slide-textphotos-text">
     <p>I had the opportunity to work as an apprentice at Berkeley Lab, where I got hands-on experience with programming, embedded systems, circuit design, microprocessors, sensors, and CAD, while contributing to real scientific research alongside the lab's scientists. This was a program called BLDAP!</p>
   </div>
-  <div class="slide-textphotos-images slide-photos-3">
+  <div class="slide-textphotos-images slide-photos-1">
     <img src="/images/bldap/flyer.jpg" alt="BLDAP program flyer: Interdisciplinary Pathways to Machine Learning and Data Science">
-    <img src="/images/bldap/group-hoodies.jpg" alt="The 2024 BLDAP cohort group photo in matching hoodies">
-    <img src="/images/bldap/cohort-list.jpg" alt="List of the 2024 BLDAP cohort students and their schools">
   </div>
 </div>
 
