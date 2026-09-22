@@ -358,6 +358,10 @@
     grid-template-columns: 1fr 1fr;
 }
 
+.slide-sideimg.imgs-wide {
+    grid-template-columns: 1.6fr 1fr;
+}
+
 /* Full-width screenshot slides (code, combined graphs) */
 .slide-shot {
     display: grid;

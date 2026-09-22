@@ -143,8 +143,8 @@ url: /vehicle-dynamics/
   </div>
 </div>
 
-<div class="slide slide-sideimg">
-  <div class="slide-sideimg-imgs cols-2">
+<div class="slide slide-sideimg imgs-wide">
+  <div class="slide-sideimg-imgs">
     <img src="/images/vehicle-dynamics/code-calcmaxfy.png" alt="calc_max_fy.m MATLAB function code">
     <img src="/images/vehicle-dynamics/code-fymax.png" alt="F_y_max.m MATLAB function code">
   </div>
